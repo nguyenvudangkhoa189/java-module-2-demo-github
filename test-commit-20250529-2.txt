@@ -1,1 +1,7 @@
 Khoa commit 2
+
+Test edit file 1
+
+Thêm dòng mới 1
+
+Thêm dòng mới 2
